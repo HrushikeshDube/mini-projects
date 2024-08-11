@@ -50,7 +50,5 @@ The Quiz App is an interactive application that presents a series of questions t
 - **Clock App**: A simple clock that shows the current time.
 - **Quiz App**: An interactive quiz application that scores users based on their answers.
 
-## Contributing
 
-We welcome contributions from the community! Feel free to open issues or submit pull requests to improve these projects.
 
